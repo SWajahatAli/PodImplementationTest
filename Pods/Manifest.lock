@@ -1,0 +1,22 @@
+PODS:
+  - ExternalPodTest (0.1.0)
+
+DEPENDENCIES:
+  - ExternalPodTest (from `https://github.com/SWajahatAli/ExternalPodTest.git`, branch `main`)
+
+EXTERNAL SOURCES:
+  ExternalPodTest:
+    :branch: main
+    :git: https://github.com/SWajahatAli/ExternalPodTest.git
+
+CHECKOUT OPTIONS:
+  ExternalPodTest:
+    :commit: b996dccb194c2773ee5fae2464bc9b765486351f
+    :git: https://github.com/SWajahatAli/ExternalPodTest.git
+
+SPEC CHECKSUMS:
+  ExternalPodTest: a5a51a13ee8851447443476af3236124e95efe04
+
+PODFILE CHECKSUM: 28db524037cd35bf5ac3cf3f65e51ce5cb02888e
+
+COCOAPODS: 1.14.3
